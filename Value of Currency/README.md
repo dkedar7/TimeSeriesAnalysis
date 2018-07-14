@@ -1,3 +1,5 @@
+# Statistical Analysis of Indian National Rupee (INR)- US Dollar (USD) Exchange rate
+
 This study analyzes the variation in the valuation of the Indian National Rupee (INR) against the US Dollar.
 The python file 01_getdata.py scrapes the exchange rate data from /www.exchangerates.org.uk/USD-INR-exchange-rate-history.html and saves in the form of a Pandas dataframe.
 

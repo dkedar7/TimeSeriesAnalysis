@@ -1,2 +1,2 @@
 # TimeSeriesAnalysis
-Hold codes various time series analyses, prediction
+Hold codes for various time series analyses, prediction
