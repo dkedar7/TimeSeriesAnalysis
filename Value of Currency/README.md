@@ -18,3 +18,11 @@ The python file 01_getdata.py scrapes the exchange rate data from /www.exchanger
 
 
 ### Description of all files
+1. get_data_01.py
+The script scrapes data from 'https://www.exchangerates.org.uk/USD-INR-exchange-rate-history.html' using python. It obtains 180 data points from the immediate past. Among other things, this webpage maintains the closing rates of the dollar against the rupee. A benefit of scraping this data from a website is 'dynamic analysis'. In other words, if we store this data locally on a machine, we would not be able update the analysis with the latest rates. For example, if this script is run now, the latest value will be today's.
+
+2. Time_Series_Analysis.ipynb
+Notebook thst stores the exploratory data analysis and all modeling codes, and also serves as a walk-through.
+
+3. nn.py
+Trail environment to test all neural network codes.
