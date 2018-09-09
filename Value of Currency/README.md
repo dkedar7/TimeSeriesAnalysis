@@ -9,9 +9,9 @@ The python file 01_getdata.py scrapes the exchange rate data from /www.exchanger
 3. Various techniques of smoothing and their comparison.
 4. Inducing stationarity.
 5. Study of Autocorrelation Function (ACF) and Partial Autocorrelation Function (PACF) to determine lags.
-6. Fitting the following models:
-  6.1. A linear model- Autoregressive Integrated Moving Average (ARIMA)
-  6.2. Nonlinear- Feedforward Neural Network (FNN)
-  6.3. Nonlinear- Long Short Term Memory Recurrent Neursl Network (LSTM-RNN)
+6. Fitting the following models:<br>
+  6.1. A linear model- Autoregressive Integrated Moving Average (ARIMA)<br>
+  6.2. Nonlinear- Feedforward Neural Network (FNN)<br>
+  6.3. Nonlinear- Long Short Term Memory Recurrent Neursl Network (LSTM-RNN)<br>
 7. One-day-ahead forecast.
 8. Multi-step forecast.
