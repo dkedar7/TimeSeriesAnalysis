@@ -15,3 +15,6 @@ The python file 01_getdata.py scrapes the exchange rate data from /www.exchanger
   6.3. Nonlinear- Long Short Term Memory Recurrent Neursl Network (LSTM-RNN)<br>
 7. One-day-ahead forecast.
 8. Multi-step forecast.
+
+
+### Description of all files
